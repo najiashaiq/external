@@ -2,7 +2,7 @@ const breedSelect = document.getElementById("breedSelect");
 const infoDump = document.getElementById("infoDump");
 const carouselInner = document.getElementById("carouselInner");
 const progressBar = document.getElementById("progressBar");
-const API_KEY = "YOUR_API_KEY";
+const API_KEY = "live_9Xsyh9eJ4qi3Ar5rVjBQMuD4J96YPvJvyNztDJ0VPy218O1d73uDj1w5tL7qt0NQ";
 
 async function loadBreeds() {
   try {
